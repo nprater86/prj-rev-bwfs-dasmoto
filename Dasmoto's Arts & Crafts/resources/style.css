@@ -13,14 +13,14 @@ h2{
   font-weight: bold;
   color: white;
 }
-.brushbanner{
+.item #brushes{
   background-color: mediumspringgreen;
 }
-.framebanner{
-  background-color: lightcoral;
+.item #frames{
+  background-color: mediumspringgreen;
 }
-.paintbanner{
-  background-color: skyblue;
+.item #paint{
+  background-color: mediumspringgreen;
 }
 .price{
   font-weight: bold;
